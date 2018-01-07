@@ -1,0 +1,10 @@
+C:\Ascenso Empresarial\Registry Tools\Registry Tools\bin\Release\Rtools.exe.config
+C:\Ascenso Empresarial\Registry Tools\Registry Tools\bin\Release\Rtools.exe
+C:\Ascenso Empresarial\Registry Tools\Registry Tools\bin\Release\Rtools.pdb
+C:\Ascenso Empresarial\Registry Tools\Registry Tools\obj\Release\ResolveAssemblyReference.cache
+C:\Ascenso Empresarial\Registry Tools\Registry Tools\obj\Release\Registry_Tools.list.resources
+C:\Ascenso Empresarial\Registry Tools\Registry Tools\obj\Release\Registry_Tools.principal.resources
+C:\Ascenso Empresarial\Registry Tools\Registry Tools\obj\Release\Rtools.Properties.Resources.resources
+C:\Ascenso Empresarial\Registry Tools\Registry Tools\obj\Release\Registry Tools.csproj.GenerateResource.Cache
+C:\Ascenso Empresarial\Registry Tools\Registry Tools\obj\Release\Rtools.exe
+C:\Ascenso Empresarial\Registry Tools\Registry Tools\obj\Release\Rtools.pdb
